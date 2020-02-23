@@ -1,0 +1,1 @@
+JDBC Example with read properties.
